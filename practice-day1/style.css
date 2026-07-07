@@ -12,3 +12,15 @@ p {
     color: gray;
     font-size: 18px;
 }
+div {
+    width: 500px;
+    padding: 50px;
+    border: 5px solid red;
+    margin: 5px;
+}
+#box2 {
+    width: 200px;
+    padding: 10px;
+    border: 5px dashed red;
+    margin: 100px;
+}
