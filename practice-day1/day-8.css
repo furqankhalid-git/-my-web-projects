@@ -1,0 +1,13 @@
+.box {
+    background-color: lightcoral;
+    padding: 20px;
+    margin: 10px;
+}
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    height: 300px;
+    background-color: lightgray;
+}

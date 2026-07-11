@@ -5,18 +5,18 @@ body {
 h1 {
     color: darkblue;
     font-size: 40px;
-    text-align: center;
+    text-align: center
 }
 
 p {
     color: gray;
     font-size: 18px;
 }
-div {
+div{
     width: 500px;
-    padding: 50px;
-    border: 5px solid red;
-    margin: 5px;
+    padding: 30px;
+    border: 3px solid blue;
+    margin: 20px;
 }
 #box2 {
     width: 200px;
